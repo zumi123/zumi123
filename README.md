@@ -1,5 +1,7 @@
 ### Hi there 👋
-### 🌱 I’m currently learning datascience and AI 
+I am Zemzem Hibet and currently studying AI.
+I’m looking to collaborate on datascience and AI projects.
+You can reach me on Email: zumihibet2@gmail.com
 
 <!--
 **zumi123/zumi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
